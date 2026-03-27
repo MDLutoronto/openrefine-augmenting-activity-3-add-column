@@ -4,6 +4,9 @@ layout: "home"
 description: "This tutorial will show you how to use the Add Column by Fetching URLs feature in OpenRefine."
 permalink: "/"  #! Remove this if not the homepage
 staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
 ---
