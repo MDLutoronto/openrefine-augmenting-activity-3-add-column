@@ -15,7 +15,7 @@ maintainer:
 
 This tutorial will show you how to use the Add Column by Fetching URLs feature in OpenRefine.
 
-***Note:** Complete Augmenting Activities [1](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-1) \& [2](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-2) first before attempting this activity.*
+***Note:** Complete Augmenting Activities [1](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-1) & [2](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-2) first before attempting this activity.*
 
 *This tutorial has been developed for OpenRefine version 3\.7\.5*
 
