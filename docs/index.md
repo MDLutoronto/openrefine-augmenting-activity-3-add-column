@@ -190,5 +190,6 @@ Add a column of JSON data resulting from a Wikidata API call
 
 Now you’re ready for **[OpenRefine Augmenting Activity 4: Using Python](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-4-using-python)**
 
-Technique: [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [OpenRefine](/tools/openrefine)  
+**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)
+
 **Date Created:** 2019\-04\-04 **Updated:** 2023\-10\-23
